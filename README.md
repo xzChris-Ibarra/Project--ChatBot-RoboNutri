@@ -3,7 +3,7 @@ School Project - RoboNutri
 <img width="1024" height="873" alt="Logotipo Interfaz RoboNutri Recortado" src="https://github.com/user-attachments/assets/d8e88794-0881-4cc3-8f3d-f91aaa223cd2" />
 
 
-🔶 Encompassing the learning areas: OOP, Databases, UI/UX, Project Development and PM, I created the brand: RoboNutri
+🔶 Encompassing the learning areas: OOP, Databases, UI/UX, Project Development and PM, I created, backup by my team, the brand: RoboNutri
 
 🔸 With the purpose of developing an intelligent and didactic chatbot powered by AI, called RobiNutri, focused on promoting healthy eating habits in children between 8 and 12 years old in the city of Mexicali, Baja California. 
 
@@ -18,3 +18,5 @@ School Project - RoboNutri
   - ![ProjectRun1](https://github.com/user-attachments/assets/eab64e8e-1ce1-483b-80e5-a7c4b6628555)
 
 ♠  Chris Ibarra
+♠  Gerardo Dávalos
+♠  Diego Ruíz
